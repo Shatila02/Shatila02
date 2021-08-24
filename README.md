@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Shatila02
+- 👋 Hi, I’m Shatila Shahi
 - 👀 I’m interested in Python and R programming
 - 🌱 I’m currently learning Python and R programming
 - 💞️ I’m looking to collaborate on Bioinformatics research involving coding
-- 📫 How to reach me shatila02@student.sust.edu
-shatila794@gmail.com
+- 📫 Mails: shatila794@gmail.com shatila02@student.sust.edu
+- 📫 Researchgate: https://www.researchgate.net/profile/Shatila-Shahi-2
+- 📫 LinkedIn: https://www.linkedin.com/in/shatila-shahi/
+- 📫 Stack overflow: https://stackoverflow.com/users/16626973/shatila-shahi
 
 <!---
 Shatila02/Shatila02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
